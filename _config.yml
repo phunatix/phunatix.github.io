@@ -1,11 +1,11 @@
 title: phunatix' developer blog
 author: Olaf Ngo
 email: dev@ngo.lu
-description: > # this means to ignore newlines until "baseurl:"
-  This is the code space of phunatix on GitHub
+description: This is the code space of phunatix on GitHub
 theme: jekyll-theme-slate
 
 # social links
 github_username:  phunatix
+twitter_username: pnk61
 
 show_excerpts: true # set to false to remove excerpts on the homepage
