@@ -1,32 +1,14 @@
 ---
-title: Welcome
+title: Welcome to my GitHub page
 ---
 
 # About Me
 
-My name is Olaf and I have been working in the IT industry for more than 10 years. I mainly help corporations succeeding in their business goals by operationalizing their IT strategy based on modern IT architectures. 
+Hi, I'm  Olaf and I have been working in the IT industry for more than 10 years. I help companies in succeeding in their business goals by operationalizing their IT strategy based on modern IT architectures. 
 
-## Business
+## Previous work
 
-I have been working with and within large multinational corporations as consultant, projet manager and architect such as: IBM, Nestlé, ThyssenKrupp, ECE, Bayer and Henkel.
-
-## Skills
-
-I am passionate about using technology to architect solutions that bring real value for the busines and its clients in B2B or B2C. Although I am able to develop, I rather do the conception and integration artefacts and help others to succeed rather than getting deep in code. But if I need to, I like Node/JavaScript, Python and PHP. 
-
-## Knowledge
-
-I hold several certifications from IBM, SAP, Microsoft and AWS:
-
-* TOGAF 9 Certified
-* PRINCE2 Practitioner
-* SAP Certified S/4HANA Application Associate
-
-* AWS Certified DevOps Engineer - Professional
-* AWS Certified Solutions Architect - Associate
-* AWS Certified SysOps Administrator - Associate
-* AWS Cloud Practitioner
-* Microsoft Azure Fundamentals
+I managed medium-size IT change projects as project manager and implemented new solutions with my team as technical lead. I worked within complex matrix organizations as consultant, project manager and solution architect.
 
 ## Contact
 
