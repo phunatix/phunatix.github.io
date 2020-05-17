@@ -8,8 +8,14 @@ Hi, I'm  Olaf and I have been working in the IT industry for more than 10 years.
 
 ## Previous work
 
-I managed medium-size IT change projects as project manager and implemented new solutions with my team as technical lead. I worked within complex matrix organizations as consultant, project manager and solution architect.
+I led medium-size IT change projects as project manager and implemented new solutions with my team as technical lead. I worked within complex matrix organizations as consultant, project manager and solution architect.
+
+## Knowledge
+
+I know quite something about Cloud and Integration Architecture, API Management, DevOps methodologies, classical and agile project management. 
+
+Some of my certifications can be seen here: [Acclaim](https://www.youracclaim.com/users/olaf-ngo/badges).
 
 ## Contact
 
-You can reach out via GitHub ([phunatix](https://github.com/phunatix)) or my Twitter handle [@pnk61](https://twitter.com/pnk61).
+To connect, visit my [LinkedIn profile](https://www.linkedin.com/in/shapingfuture/). You can also reach out via GitHub ([phunatix](https://github.com/phunatix)) or my Twitter handle [@pnk61](https://twitter.com/pnk61). 
