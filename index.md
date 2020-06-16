@@ -12,10 +12,8 @@ I led medium-size IT change projects as project manager and implemented new solu
 
 ## Knowledge
 
-I know quite something about Cloud and Integration Architecture, API Management, DevOps methodologies, classical and agile project management. 
-
-Some of my certifications can be seen here: [Acclaim](https://www.youracclaim.com/users/olaf-ngo/badges).
+I know quite something about Cloud and Integration Architecture, API Management, DevOps methodologies, SAP Cloud Platform paired with some project management.
 
 ## Contact
 
-To connect, visit my [LinkedIn profile](https://www.linkedin.com/in/shapingfuture/). You can also reach out via GitHub ([phunatix](https://github.com/phunatix)) or my Twitter handle [@pnk61](https://twitter.com/pnk61). 
+To connect, visit my [LinkedIn profile](https://www.linkedin.com/in/shapingfuture/). You can also reach out via GitHub ([phunatix](https://github.com/phunatix)) or my Twitter handle [@pnk61](https://twitter.com/pnk61).
