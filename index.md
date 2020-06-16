@@ -16,4 +16,4 @@ I know quite something about Cloud and Integration Architecture, API Management,
 
 ## Contact
 
-To connect, visit my [LinkedIn profile](https://www.linkedin.com/in/shapingfuture/). You can also reach out via GitHub ([phunatix](https://github.com/phunatix)) or my Twitter handle [@pnk61](https://twitter.com/pnk61).
+To connect, visit my [LinkedIn profile](https://www.linkedin.com/in/shapingfuture/). You can also reach out via GitHub ([phunatix](https://github.com/phunatix)) or my Twitter handle [@OlafAtScale](https://twitter.com/OlafAtScale).
