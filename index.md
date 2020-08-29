@@ -12,7 +12,7 @@ I led medium-size IT change projects as project manager and implemented new solu
 
 ## Knowledge
 
-I know quite something about Cloud and Integration Architecture, API Management, DevOps methodologies, SAP Cloud Platform paired with some project management.
+I know quite something about Cloud Integration Architecture, API Management, DevOps methodologies, SAP Cloud Platform paired with some project management.
 
 ## Contact
 
