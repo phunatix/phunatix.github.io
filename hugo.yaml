@@ -1,0 +1,40 @@
+baseURL: "https://phunatix.github.io/"
+title: "Olaf Ngo"
+theme: "PaperMod"
+
+params:
+  homeInfoParams:
+    Title: Hi I'm Olaf
+    Content: Cloud Architect, FinOps fan, Runner, Photographer and Homelabber
+  env: production
+  title: "Olaf Ngo's blog"
+  description: "This is the blog of phunatix on GitHub"
+  author: "Olaf Ngo"
+
+  # # PaperMod Profile Mode (Home Page)
+  # profileMode:
+  #   enabled: false
+  #   title: "Hi, I'm Olaf"
+  #   subtitle: "Cloud Architect, FinOps fan, Runner, Photographer and Homelabber"
+  #   imageUrl: ""
+  #   imageWidth: 120
+  #   imageHeight: 120
+  #   buttons:
+  #     - name: "About Me"
+  #       url: "/about/"
+  #     - name: "LinkedIn"
+  #       url: "https://www.linkedin.com/in/shapingfuture/"
+
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/phunatix"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/shapingfuture/"
+    - name: "email"
+      url: "mailto:dev@ngo.lu"
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
